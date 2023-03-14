@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package EjerciciosExtra;
+package EjerciciosExtraG3;
 
 import java.util.Scanner;
 
@@ -23,7 +23,7 @@ dado que 11 es menor que 13, entonces: el residuo es 11 y el cociente es 3.
 ¿Aún no lo entendiste? Recomendamos googlear división con restas sucesivas.
  */
 
-public class Ejercicio5 {
+public class Ejercicio9 {
     public static void main(String[] args) {
     int num1,num2,resto,cociente;
         System.out.println("Ingrese dos numeros mayores de 1");

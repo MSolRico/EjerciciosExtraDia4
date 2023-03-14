@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Guia3.EjercicioExtras;
+package EjerciciosExtraG3;
 
 import java.util.Scanner;
 

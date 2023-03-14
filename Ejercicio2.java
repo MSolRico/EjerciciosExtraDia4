@@ -1,4 +1,4 @@
-package Guia3.EjercicioExtras;
+package EjerciciosExtraG3;
 
 
 /*
@@ -8,13 +8,12 @@ package Guia3.EjercicioExtras;
  *  Mostrar los valores iniciales y los valores finales de cada variable. 
  *  Utilizar sólo una variable auxiliar.*/
 
-public class Ejercicio1 {
+public class Ejercicio2 {
 	
 	
 	public static void main(String[] args) {
 		
-		int A,B,C,D,aux;;
-		aux = 0;
+		int A,B,C,D,aux;
 		A = 5;
 		B = 89;
 		C = 32;
